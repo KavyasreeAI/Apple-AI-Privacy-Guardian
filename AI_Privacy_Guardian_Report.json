@@ -1,0 +1,14 @@
+{
+  "project": "AI Privacy Guardian",
+  "generated_utc": "2026-10-29T08:56:39.723762+00:00",
+  "risk_score": 75,
+  "risk_level": "CRITICAL",
+  "total_findings": 3,
+  "category_counts": {
+    "Email Address": 1,
+    "Indian Phone Number": 1,
+    "Password": 1
+  },
+  "original_text_included": false,
+  "disclaimer": "Pattern-based prototype. Results may be incomplete; risk score is heuristic."
+}
